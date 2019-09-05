@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tom Miller</title>
+    <link href="https://tdmiller.github.io/feed.xml" rel="self" />
+    <link href="https://tdmiller.github.io" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Tom Miller</name>
+    </author>
+    <id>https://tdmiller.github.io</id>
+
+</feed>
